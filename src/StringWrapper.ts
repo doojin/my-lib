@@ -1,6 +1,6 @@
 import Suffix from "./t/Suffix";
 
-export default class StringWrapper {
+export = class StringWrapper {
   private readonly string;
 
   constructor(string: string) {
