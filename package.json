@@ -10,6 +10,10 @@
     "out",
     "package.json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doojin/my-lib.git"
+  },
   "author": "",
   "license": "ISC"
 }
